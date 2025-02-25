@@ -2,6 +2,8 @@
 
 A lightweight PHP component for managing ACF JSON synchronization in WordPress themes.
 
+![ACF JSON Controller](https://empat.dev/img/acf_2.png)
+
 ## Description
 
 ACF JSON Controller is a WordPress theme component that manages ACF (Advanced Custom Fields) JSON files synchronization. It automatically configures paths for saving and loading JSON files, provides admin notifications for field updates, and enables detailed HTML escaping logging.
@@ -13,6 +15,8 @@ ACF JSON Controller is a WordPress theme component that manages ACF (Advanced Cu
 - Detailed logging of HTML escaping for debugging purposes
 - Disables automatic `<p>` tags in the WYSIWYG editor
 - Configures HTML escaping in ACF fields
+
+![ACF JSON Controller](https://empat.dev/img/acf_1.png)
 
 ## Requirements:
 
